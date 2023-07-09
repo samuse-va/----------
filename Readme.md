@@ -1,7 +1,6 @@
-# Личный проект «{{projectTitle}}»
+# Личный проект «Kekstagram»
 
-* Студент: [{{userName}}]({{userProfile}}).
-* Наставник: `Неизвестно`.
+* Студент: [Victoria Samuseva].
 
 ---
 

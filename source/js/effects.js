@@ -1,4 +1,6 @@
-/* global noUiSlider:readonly */
+// /* global noUiSlider:readonly */
+import noUiSlider from 'nouislider';
+import 'nouislider/dist/nouislider.css';
 
 const DEFAULT_EFFECT_LEVEL = 100
 
