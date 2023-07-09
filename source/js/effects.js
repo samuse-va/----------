@@ -1,6 +1,6 @@
 // /* global noUiSlider:readonly */
 import noUiSlider from 'nouislider';
-import 'nouislider/dist/nouislider.css';
+// import 'nouislider/dist/nouislider.css';
 
 const DEFAULT_EFFECT_LEVEL = 100
 
@@ -53,6 +53,7 @@ const onEffectRadioGroupClick = (evt) => {
     if (lastClass !== '') {
       uploadPreviewImg.classList.remove(lastClass)
     }
+
     effectLevelSlider.noUiSlider.set(DEFAULT_EFFECT_LEVEL)
     let currentClass = evt.target.classList[1]
     lastClass = currentClass
